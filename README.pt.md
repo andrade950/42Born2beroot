@@ -8,8 +8,8 @@
 
 *Configura o teu primeiro servidor virtual — e compreende cada decisão que tomas.*
 
-[![Tutorial](https://img.shields.io/badge/📖_Tutorial-Português-4A90D9?style=for-the-badge)](born2beroot_tutorial_pt.md)
-[![Guia de Avaliação](https://img.shields.io/badge/✅_Guia_de_Avaliação-Português-2ECC71?style=for-the-badge)](born2beroot_evaluation_guide_pt.md)
+[![Tutorial](https://img.shields.io/badge/📖_Tutorial-Português-4A90D9?style=for-the-badge)](born2beroot.tutorial.pt.md)
+[![Guia de Avaliação](https://img.shields.io/badge/✅_Guia_de_Avaliação-Português-2ECC71?style=for-the-badge)](born2beroot.evaluation.guide.pt.md)
 [![Enunciado PDF](https://img.shields.io/badge/📄_Enunciado-PDF-E74C3C?style=for-the-badge)](en.subject.pdf)
 
 </div>
@@ -181,8 +181,8 @@ Um script bash que difunde as seguintes informações para todos os terminais a 
 
 | Recurso | Ligação |
 |---|---|
-| 📖 Tutorial passo a passo (PT) | [born2beroot_tutorial_pt.md](born2beroot_tutorial_pt.md) |
-| ✅ Guia de Avaliação (PT) | [born2beroot_evaluation_guide_pt.md](born2beroot_evaluation_guide_pt.md) |
+| 📖 Tutorial passo a passo (PT) | [born2beroot_tutorial_pt.md](born2beroot.tutorial.pt.md) |
+| ✅ Guia de Avaliação (PT) | [born2beroot_evaluation_guide_pt.md](born2beroot.evaluation.guide.pt.md) |
 | 📄 Enunciado Oficial (PDF) | [en.subject.pdf](en.subject.pdf) |
 
 ---
