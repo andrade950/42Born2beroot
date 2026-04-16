@@ -8,8 +8,8 @@
 
 *Set up your first virtual server — and understand every choice you make.*
 
-[![Tutorial](https://img.shields.io/badge/📖_Tutorial-English-4A90D9?style=for-the-badge)](born2beroot_tutorial_en.md)
-[![Evaluation Guide](https://img.shields.io/badge/✅_Evaluation_Guide-English-2ECC71?style=for-the-badge)](born2beroot_evaluation_guide_en.md)
+[![Tutorial](https://img.shields.io/badge/📖_Tutorial-English-4A90D9?style=for-the-badge)](born2beroot.tutorial.en.md)
+[![Evaluation Guide](https://img.shields.io/badge/✅_Evaluation_Guide-English-2ECC71?style=for-the-badge)](born2beroot.evaluation.guide.en.md)
 [![Subject PDF](https://img.shields.io/badge/📄_Subject-PDF-E74C3C?style=for-the-badge)](en.subject.pdf)
 
 </div>
@@ -181,8 +181,8 @@ A bash script that broadcasts the following info to all terminals every **10 min
 
 | Resource | Link |
 |---|---|
-| 📖 Step-by-step Tutorial (EN) | [born2beroot_tutorial_en.md](born2beroot_tutorial_en.md) |
-| ✅ Evaluation Guide (EN) | [born2beroot_evaluation_guide_en.md](born2beroot_evaluation_guide_en.md) |
+| 📖 Step-by-step Tutorial (EN) | [born2beroot_tutorial_en.md](born2beroot.tutorial.en.md) |
+| ✅ Evaluation Guide (EN) | [born2beroot_evaluation_guide_en.md](born2beroot.evaluation.guide.en.md) |
 | 📄 Official Subject (PDF) | [en.subject.pdf](en.subject.pdf) |
 
 ---
