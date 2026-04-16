@@ -2,6 +2,8 @@
 
 # 🖥️ Born2beRoot
 
+[Leia em Português](README.pt.md)
+
 **A System Administration project from 42 School**
 
 *Set up your first virtual server — and understand every choice you make.*
@@ -154,16 +156,6 @@ A bash script that broadcasts the following info to all terminals every **10 min
 ```
 
 > During evaluation, you will be asked to **explain the script** and to **stop it without modifying it** (hint: use `cron`).
-
----
-
-## 🎁 Bonus Part
-
-> ⚠️ Bonus is only evaluated if the **mandatory part is perfect**.
-
-- Set up **advanced partitioning** with additional LVM volumes (`/var`, `/srv`, `/tmp`, `/var/log`)
-- Deploy a **WordPress website** using **lighttpd**, **MariaDB**, and **PHP**
-- Set up one additional useful service of your choice *(NGINX and Apache2 are excluded)*
 
 ---
 
