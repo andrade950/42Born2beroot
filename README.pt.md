@@ -2,6 +2,8 @@
 
 # 🖥️ Born2beRoot
 
+[Read in English](README.md)
+
 **Um projeto de Administração de Sistemas da 42 School**
 
 *Configura o teu primeiro servidor virtual — e compreende cada decisão que tomas.*
@@ -154,16 +156,6 @@ Um script bash que difunde as seguintes informações para todos os terminais a 
 ```
 
 > Durante a avaliação, serás questionado sobre como **o script funciona** e terás de o **parar sem o modificar** (dica: usa o `cron`).
-
----
-
-## 🎁 Parte Bónus
-
-> ⚠️ O bónus só é avaliado se a **parte obrigatória for perfeita**.
-
-- Configurar **particionamento avançado** com volumes LVM adicionais (`/var`, `/srv`, `/tmp`, `/var/log`)
-- Instalar um **site WordPress** com **lighttpd**, **MariaDB** e **PHP**
-- Configurar um serviço adicional útil à tua escolha *(NGINX e Apache2 excluídos)*
 
 ---
 
