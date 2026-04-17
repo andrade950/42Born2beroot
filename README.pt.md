@@ -2,8 +2,6 @@
 
 # 🖥️ Born2beRoot
 
-[Read in English](README.md)
-
 **Um projeto de Administração de Sistemas da 42 School**
 
 *Configura o teu primeiro servidor virtual — e compreende cada decisão que tomas.*
@@ -11,6 +9,8 @@
 [![Tutorial](https://img.shields.io/badge/📖_Tutorial-Português-4A90D9?style=for-the-badge)](born2beroot.tutorial.pt.md)
 [![Guia de Avaliação](https://img.shields.io/badge/✅_Guia_de_Avaliação-Português-2ECC71?style=for-the-badge)](born2beroot.evaluation.guide.pt.md)
 [![Enunciado PDF](https://img.shields.io/badge/📄_Enunciado-PDF-E74C3C?style=for-the-badge)](en.subject.pdf)
+
+[Read in English](README.md)
 
 </div>
 
